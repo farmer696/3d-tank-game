@@ -273,7 +273,7 @@
             ],
             "labels": [
                 "Texture"
-                       “file:///home/chronos/u-ee5496bfaa0cbeb5b8d686a6c7f8362aa047db24/MyFiles/Downloads/CC789.png”
+                       “<img src="file:///home/chronos/u-ee5496bfaa0cbeb5b8d686a6c7f8362aa047db24/MyFiles/Downloads/CC789.png"/>”
             ]
         },
         "3534": {
@@ -340,7 +340,7 @@
             ],
             "labels": [
                 "Texture"
-                       “file:///home/chronos/u-ee5496bfaa0cbeb5b8d686a6c7f8362aa047db24/MyFiles/Downloads/CC738.png”
+                       “<img src="file:///home/chronos/u-ee5496bfaa0cbeb5b8d686a6c7f8362aa047db24/MyFiles/Downloads/CC738.png"/>”
    ]
         },
         "4017": {
@@ -365,7 +365,7 @@
             ],
             "labels": [
                 "Texture"
-                      “file:///home/chronos/u-ee5496bfaa0cbeb5b8d686a6c7f8362aa047db24/MyFiles/Downloads/CC.png”
+                      “<img src="file:///home/chronos/u-ee5496bfaa0cbeb5b8d686a6c7f8362aa047db24/MyFiles/Downloads/CC.png"/>”
             ]
         },
         "4398": {
@@ -382,7 +382,7 @@
             ],
             "labels": [
                 "Texture"
-                    “file:///home/chronos/u-ee5496bfaa0cbeb5b8d686a6c7f8362aa047db24/MyFiles/Downloads/CC340.png”
+                    “<img src="file:///home/chronos/u-ee5496bfaa0cbeb5b8d686a6c7f8362aa047db24/MyFiles/Downloads/CC340.png"/>”
             ]
         },
         "16": {
